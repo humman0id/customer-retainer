@@ -1,3 +1,3 @@
 # customer-retainer
 
-Run main.py to import the database.
+Run main.ipynb to import the database.
