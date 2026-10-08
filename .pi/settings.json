@@ -1,7 +1,0 @@
-{
-  "packages": [
-    { "source": "npm:@juicesharp/rpiv-ask-user-question" },
-    { "source": "npm:@juicesharp/rpiv-todo" },
-    { "source": "npm:@maplezzk/pi-interactive-subagents" }
-  ]
-}
